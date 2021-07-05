@@ -17,12 +17,20 @@ Close LeefCoin Core, and go to %APPDATA%/LeefCoin
 then, create a file and name it leefcoin.conf, Copy and Paste the folowing info the file:
 
 rpcuser=user
+
 rpcpassword=password
+
 rpcbind=0.0.0.0
+
 rpcallowip=127.0.0.1
+
 listen=1
+
 server=1
+
 addnode=104.248.117.139
+
 addnode=46.101.93.246
+
 
 save the file, and you're done! you can open LeefCoin.exe again!
