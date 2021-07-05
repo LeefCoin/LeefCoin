@@ -1,2 +1,2 @@
-# LeefCoin
-LeefCoin is a Digital Cryptocurrency based on the Blockchain technology and a Proof of Work algorithm
+![LeefCoin2](https://user-images.githubusercontent.com/85453562/124458188-8b9f0780-dd41-11eb-80ff-b48040494d0d.png)
+
