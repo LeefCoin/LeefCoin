@@ -1,4 +1,4 @@
-# Windows
+# Download
 
 Download the latest LeefCoin Core release [Here](https://github.com/LeefCoin/LeefCoin/releases/download/1.0/LeefCoinWindows.exe)
 
