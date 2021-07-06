@@ -32,4 +32,17 @@ addnode=104.248.117.139
 addnode=46.101.93.246
 
 
-save the file, and you're done! you can open LeefCoin.exe again!
+Save the file, and you're done! you can run LeefCoin.exe again!
+
+# MacOS
+
+
+
+
+
+
+# Linux
+
+
+
+# Mining
