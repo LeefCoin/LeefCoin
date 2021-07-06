@@ -6,9 +6,10 @@
 
 # How to setup LeefCoin on your computer
 
-Windows
-MacOS
-Linux
+[Windows](https://github.com/LeefCoin/LeefCoin/blob/main/Windows.md)
+
+[MacOS](https://github.com/LeefCoin/LeefCoin/blob/main/MacOS.md)
+
 
 
 # Mining
