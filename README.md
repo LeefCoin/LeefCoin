@@ -1,5 +1,6 @@
 
-![הוסף כותרת (4)](https://user-images.githubusercontent.com/85453562/124485768-bf8a2500-dd61-11eb-9c04-9cd65f5d08cb.png)
+![1](https://user-images.githubusercontent.com/85453562/124568013-58b84a80-ddf9-11eb-9c30-e435cdd19a22.png)
+![2](https://user-images.githubusercontent.com/85453562/124568017-59e97780-ddf9-11eb-96d7-f0353df39031.png)
 
 # How to setup LeefCoin on your computer
 
