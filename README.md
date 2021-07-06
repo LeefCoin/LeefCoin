@@ -46,3 +46,6 @@ Save the file, and you're done! you can run LeefCoin.exe again!
 
 
 # Mining
+
+# To do list:
+
