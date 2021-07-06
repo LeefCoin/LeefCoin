@@ -1,81 +1,40 @@
-# Install requirements
-
-Open Spotlight Search and type the following:
-
-terminal
-
-Double click on terminal.
-
-Execute the following command, to open your downloads directory:
-
-cd Downloads
-
-Install Homebrew with the following command:
-
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
-
-Enter your sudo password to install Homebrew.
-
-Install wget with the following command:
-
-brew install wget
-
 
 # Download
 
-Download the MacOS wallet with the following command:
+Download the latest LeefCoin core wallet release [here](https://github.com/LeefCoin/LeefCoin/releases/download/1.0/LeefCoinMacOS.dmg)
+
+Open the downloaded file, and you'll see an installation window, complete the installation instructions.
+
+If you're not familiar with LeefCoin core don't change the installation path!
+
+# Connect to the network
+
+* Close LeefCoin Core
+
+* Go to $HOME/Library/Application Support/LeefCoin/
+
+* Create a leefcoin.conf file with the following info:
 
 
-wget "https://github.com/LeefCoin/LeefCoin/releases/download/1.0/LeefCoinMacOS.dmg"
+       rpcuser=user
 
+       rpcpassword=password
 
-Download the MacOS Daemon & tools for your wallet with the following command:
+       rpcbind=0.0.0.0
 
+       rpcallowip=127.0.0.1
 
-wget "https://github.com/LeefCoin/LeefCoin/releases/download/1.0/LeefCoinDaemonMacOS.tar.gz"
+       listen=1
 
-
-# Extract the files
-
-Extract the files with the following command:
-
-tar -xzvf LeefCoinDaemonMacOS.tar.gz
-
-# Install
-
-Create the data directory for your wallet with the following command:
-
-
-mkdir "$HOME/Library/Application Support/LeefCoin/"
-
-
-Create the leefcoin.conf file with the following command:
-
-
-nano "$HOME/Library/Application Support/LeefCoin/leefcoin.conf" -t
-
-
-Paste the following info:
-
-rpcuser=user
-
-rpcpassword=password
-
-rpcbind=0.0.0.0
-
-rpcallowip=127.0.0.1
-
-listen=1
-
-server=1
-
-addnode=104.248.117.139
-
-addnode=46.101.93.246
+       server=1
+       
+       addnode=104.248.117.139
+       
+       addnode=46.101.93.246
 
 
 
-Save the file with the keyboard shortcut ctrl + x.
+* Save the file, and open LeefCoin Core.
 
 
 
