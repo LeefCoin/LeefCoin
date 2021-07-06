@@ -1,31 +1,33 @@
 # Windows
 
-Download the latest LeefCoin Core release [Here](https://github.com/LeefCoin/LeefCoin/releases/download/1.0/LeefCoinWindows.zip)
+Download the latest LeefCoin Core release [Here](https://github.com/LeefCoin/LeefCoin/releases/download/1.0/LeefCoinWindows.exe)
 
-Unzip the zip file, and Run LeefCoin.exe\
-if you're not familier with LeefCoin Core, don't change the installation path.
+Open LeefCoin.exe, and you'll see an installation window, complete the installation instructions.
+
+If you're not familiar with LeefCoin core don't change the installation path!
 
 # Connect to the network
-After downloading and installing LeefCoin Core, LeefCoin Core should pop up automatically.
-Close LeefCoin Core, and go to %APPDATA%/LeefCoin
-then, create a file and name it leefcoin.conf, Copy and Paste the folowing info the file:
+
+* Close LeefCoin Core
+* Go to %APPDATA%\LeefCoin
+* Create a leefcoin.conf file with the following info:
 
 
-rpcuser=user
+       rpcuser=user
 
-rpcpassword=password
+       rpcpassword=password
 
-rpcbind=0.0.0.0
+       rpcbind=0.0.0.0
 
-rpcallowip=127.0.0.1
+       rpcallowip=127.0.0.1
 
-listen=1
+       listen=1
 
-server=1
+       server=1
+       
+       addnode=104.248.117.139
+       
+       addnode=46.101.93.246
 
-addnode=104.248.117.139
 
-addnode=46.101.93.246
-
-
-Save the file, and you're done! you can run LeefCoin.exe again!
+* Save the file, and open LeefCoin Core.
