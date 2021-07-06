@@ -1,4 +1,3 @@
-![LeefCoin2-standard-scale-6_00x-gigapixel](https://user-images.githubusercontent.com/85453562/124556512-36203480-dded-11eb-8614-c0259a391aee.jpg)
 
 ![הוסף כותרת (4)](https://user-images.githubusercontent.com/85453562/124485768-bf8a2500-dd61-11eb-9c04-9cd65f5d08cb.png)
 
