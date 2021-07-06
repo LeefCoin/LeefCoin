@@ -4,19 +4,10 @@
 
 [Block Explorer](http://104.248.117.139/)
 
-# How to setup LeefCoin on your computer
+# Download & Install
 
 [Windows](https://github.com/LeefCoin/LeefCoin/blob/main/Windows.md)
 
 [MacOS](https://github.com/LeefCoin/LeefCoin/blob/main/MacOS.md)
-
-
-
-# Mining
-
-# To do list:
-Create a website
-create an exchange
-Create a Mining pool
 
 
