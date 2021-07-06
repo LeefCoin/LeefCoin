@@ -1,6 +1,6 @@
 # Download
 
-Download the latest LeefCoin Core release [Here](https://github.com/LeefCoin/LeefCoin/releases/download/1.0/LeefCoinWindows.exe)
+Download the latest LeefCoin Core release [Here](https://github.com/LeefCoin/LeefCoin/releases/download/1.0/LeefCoin.exe)
 
 Open the downloaded file, and you'll see an installation window, complete the installation instructions.
 
