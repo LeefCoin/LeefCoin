@@ -1,6 +1,6 @@
 # Download the LeefCoin Core tools
 
-If you don't have LeefCoin core installed on your computer, please do that first.
+If you don't have LeefCoin core installed on your computer, please install that first.
 
 The LeefCoin core tools can be downloaded from [here](https://github.com/LeefCoin/LeefCoin/releases/download/1.0/LeefCoinWindows.zip)
  
