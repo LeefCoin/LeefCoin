@@ -6,8 +6,18 @@
 
 # Download & Install
 
-[Windows](https://github.com/LeefCoin/LeefCoin/blob/main/Windows.md)
+* [Windows](https://github.com/LeefCoin/LeefCoin/blob/main/Windows.md)
 
-[MacOS](https://github.com/LeefCoin/LeefCoin/blob/main/MacOS.md)
+* [MacOS](https://github.com/LeefCoin/LeefCoin/blob/main/MacOS.md)
 
+# Pool Mining
 
+* Windows
+* MacOS
+* Linux
+
+# Solo Mining
+
+* Windows
+* MacOS
+* Linux
