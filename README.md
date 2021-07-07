@@ -2,7 +2,7 @@
 ![2](https://user-images.githubusercontent.com/85453562/124698532-e64d7600-de9d-11eb-9618-8a324eac27e7.png)
 
 
-[Block Explorer](http://explorer.leefcoin.org/)
+[Block Explorer](http://explorer.leefcoin.org/)   [Mining Pool](http://pool.leefcoin.org/)
 
 # Download & Install
 
