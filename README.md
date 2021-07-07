@@ -18,6 +18,6 @@
 
 # Solo Mining
 
-* Windows
+* [Windows](https://github.com/LeefCoin/LeefCoin/blob/main/SoloMineWindows.md)
 * MacOS
 * Linux
