@@ -21,3 +21,13 @@
 * [Windows](https://github.com/LeefCoin/LeefCoin/blob/main/SoloMineWindows.md)
 * MacOS
 * Linux
+# To do list:
+* Create a Web wallet
+* Create a Mobile wallet
+* List on binance
+
+
+# Love this project? Feel free to donate :)
+* Bitcoin - 168oxsMXKbvsMbm41tykewSSNtFtRPYG12
+* Ethereum - 0x45e381F1Bd4832620D4d4a000f0925828B5139D8
+* LeefCoin - LcjryywtdyUAmrQFWgUXt9ipom6ND8J3FJ
